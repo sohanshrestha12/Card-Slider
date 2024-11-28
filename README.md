@@ -25,6 +25,9 @@
 - **Lazy Loading**: Implement lazy loading for cards to improve performance when the list of cards grows larger.
 - **Mobile Optimization**: Further refine the UI for mobile devices, including improving swipe gestures.
 
+## Live Demo Link
+- https://cardslider-task1.netlify.app/
+
 ## Time Spent on the Project
 
 - Approximately **5 hours** were spent on implementing the functionality, testing, and refining the design.
