@@ -39,6 +39,7 @@ body {
     border-radius: 10px;
     opacity: 0.3;
     padding: 10px 12px;
+    cursor: grab;
 }
 
 .card.active {
