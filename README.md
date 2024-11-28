@@ -3,9 +3,9 @@
 ## Setup Instructions
 
 1. Clone the repository to your local machine:
-  >> git clone https://github.com/sohanshrestha12/Card-Slider.git
+  - git clone https://github.com/sohanshrestha12/Card-Slider.git
 2. Navigate into the project folder:
-  >> cd slider
+  - cd slider
 3. Inside html folder open the `index.html` file in your browser, or run a local server to view the demo.
 
 ## Technology Choices and Rationale
