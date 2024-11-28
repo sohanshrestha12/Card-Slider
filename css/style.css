@@ -20,6 +20,12 @@ body {
     flex-direction: column;
     align-items: center;
     user-select: none;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.card-slider::-webkit-scrollbar {
+    display: none;
 }
 
 .card {
